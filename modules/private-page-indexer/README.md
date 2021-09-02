@@ -6,8 +6,8 @@
 - Before running the Groovy script above, remember to enter the correspond `userId`, `plainPassword` and `companyId`.
 - To find `companyId`, go to **Control Panel > Virtual Instances**, grab the value of column `Instance ID`.
 
-3. Go to **Control Panel > System Settings > ge-connect > ge-connect-crawler-configuration**
-- Make sure `ge-auto-authenticate` is checked.
+3. Go to **Control Panel > System Settings > connect > connect-crawler-configuration**
+- Make sure `auto-authenticate` is checked.
 - Enter hashed ID and hashed password to corresponding fields.
 - Save the configuration.
 

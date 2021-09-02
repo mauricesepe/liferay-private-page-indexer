@@ -1,0 +1,10 @@
+Bundle-Name: private-page-indexer
+Bundle-SymbolicName: private.page.indexer
+Bundle-Version: 1.0.0
+
+Import-Package:\
+	!org.apache.avalon.framework.logger,\
+	!org.apache.log,\
+	!org.apache.log4j,\
+	\
+	*
